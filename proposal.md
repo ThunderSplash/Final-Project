@@ -45,8 +45,10 @@ Minimal Viable Outcome:
   1. Goal 1
     - Create player movement
     - Add weather
+  
   2. Goal 2
     - Create enemy movement
+  
   3. Goal 3
     - Add Sound
     - Create Time distortion mechanic
@@ -55,9 +57,11 @@ Minimal Viable Outcome:
   1. Goal 1
     - Create player health system
     - Create enemy health systyem
+  
   2. Goal 2
     - Create HUD
-  4. Goal 3 
+  
+  3. Goal 3 
     - Create Menu
     - Create Options Menu
     - Create Quit Menu
