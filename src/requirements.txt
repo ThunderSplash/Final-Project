@@ -1,0 +1,8 @@
+pygame
+pillow
+mixer
+os
+pygame.locals import *
+random
+csv
+button
